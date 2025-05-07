@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Wohou, french Epitech Student
-- I like to work on projects when I have time and cool idea, but I lack of both...
+- I like to work on projects when I have time and cool idea.
