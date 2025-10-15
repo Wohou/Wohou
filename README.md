@@ -19,5 +19,3 @@ ___
 
 # Softwares
 [![Softwares](https://skillicons.dev/icons?i=blender,linux,vscode,raspberrypi,arduino)](https://skillicons.dev)
-
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
