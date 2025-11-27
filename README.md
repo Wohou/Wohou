@@ -21,6 +21,8 @@ ___
 # Softwares
 [![Softwares](https://skillicons.dev/icons?i=blender,linux,vscode,raspberrypi,arduino)](https://skillicons.dev)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-</picture>
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wohou/Wohou/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wohou/Wohou/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wohou/Wohou/output/github-contribution-grid-snake.svg?v=1">
+  </picture>
