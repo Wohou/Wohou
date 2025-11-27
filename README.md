@@ -1,4 +1,5 @@
 ### 👉 Hello, I'm @Wohou, french IT student who likes to build stuff.
+### 🚀 Full-stack Dev | 🔭 Aerospace & Astronomy enthusiast. Where code meets cosmos. Ready to build the next era of tech.
 ### 👇 Below you will find all my areas of expertise 👇
 
 # Languages
